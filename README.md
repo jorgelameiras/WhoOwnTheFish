@@ -35,3 +35,7 @@ The puzzle is attributed to Albert Einstein and can be solved using logical dedu
 
 ## Coding Solution
 
+I used the backtracking algorithm to find the solution for this puzzle. 
+
+
+// Explain the code better here after I take a look and make some tweaks to it to print the name of the person who owns the fish.
